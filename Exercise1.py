@@ -4,19 +4,20 @@
 #4 you have to finally tell how many attempts did you take to guess the number
 
 # Declaring variables
+
 actual_number = 54
 attempts = 0
-
 while True:
     attempts += 1
-    guess = int(input("guess the number: /n"))
+    guess = int(input("guess the number: \n"))
     if guess<actual_number:
      print("your guess was too low")
-     elif guess>actual_number:
+    elif guess>actual_number:
      print("your guess was too high")
+    else: 
+      print(f"you guessed the number in {attempts} attempts")
+      break
+    
+    print("thanks for playing")
 
-else:
-    print(you guessed the number in {attempts} attempts)
-    break
-print(thanks for playing)
     

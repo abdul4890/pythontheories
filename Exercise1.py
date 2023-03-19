@@ -16,7 +16,7 @@ while True:
      print("your guess was too high")
     else: 
       print(f"you guessed the number in {attempts} attempts")
-      break
+      
   
 
     

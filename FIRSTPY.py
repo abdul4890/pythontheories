@@ -709,4 +709,10 @@ for y in range(-10,11):
 
 
 # It returns sub sequence.
+       
+for i in range(10)
+       print(i)
+
+
+
 

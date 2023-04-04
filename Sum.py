@@ -1,7 +1,6 @@
 
+  
 
-    x = 10
-    y = 10
-    xyz = 10
+for i in range(10)
+ print(i)
 
-    x is y is xyz

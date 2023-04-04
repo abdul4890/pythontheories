@@ -1,6 +1,7 @@
 
   
 
-for i in range(10)
- print(i)
+a = 234
+b = 564
 
+print(f'the sum of {a} and {b} is {a+b}')

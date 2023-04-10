@@ -8,11 +8,11 @@ print(f'the sum of {a} and {b} is {a+b}')
 number = 12 
 guess = input("write teh number: ")
 
-if guess > number:
-   print("number bada hai")
-elif guess < number:
-   print("number chota hai")
-   
+x = range(6)
+for n in x:
+  print(n)
+
+
 
 
 

@@ -12,6 +12,7 @@ if guess > number:
    print("number bada hai")
 elif guess < number:
    print("number chota hai")
+   
 
 
 

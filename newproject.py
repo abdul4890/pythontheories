@@ -23,3 +23,8 @@ name = "razi"
 for char in name:
     print(char, end = "")
 
+    i = 10
+    while i == 10:
+        print(i)
+        break
+

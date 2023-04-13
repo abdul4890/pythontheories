@@ -1,5 +1,7 @@
-name = "razi ansari"
+number = 4
 
-for i in name:
- print(i*10)
+while number <+ 10:
+   print(number)
+   number += 1
+   
 

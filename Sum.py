@@ -1,7 +1,8 @@
-number = 4
-
-while number <+ 10:
-   print(number)
-   number += 1
+number = 10
+guess = int(input ("enter the number: "))
    
+if number > guess:
+    print("number bada hai")
+elif number < guess:
+    print("number chota hai")
 

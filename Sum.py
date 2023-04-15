@@ -1,5 +1,6 @@
 
-import random
-while True:     
-     print(''' 1. roll the dice             2. exit     ''')    
-user = int(input("what you want to do\n"))
+i = 1
+while(i <= 5):
+    print("Good Morning")
+    i = i + 1
+

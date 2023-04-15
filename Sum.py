@@ -1,8 +1,5 @@
-number = 10
-guess = int(input ("enter the number: "))
-   
-if number > guess:
-    print("number bada hai")
-elif number < guess:
-    print("number chota hai")
 
+import random
+while True:     
+     print(''' 1. roll the dice             2. exit     ''')    
+user = int(input("what you want to do\n"))

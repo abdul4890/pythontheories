@@ -1,4 +1,8 @@
-# programe to get unique vowels from list
+# programe to guess the number
+number = int(input("Enter the number: "))
+guess = 100
 
-l = "my name is razi ansaru"
-l.len()
+if number == guess:
+    print("your guess was right")
+else:
+    print("your guess was wrong")

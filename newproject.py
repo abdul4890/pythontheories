@@ -6,4 +6,7 @@ for i in range(2, number):
  else:
   print("prime")
   break
+ 
+ l = "this data is from list"
+ l
    

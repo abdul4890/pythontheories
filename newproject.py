@@ -1,11 +1,8 @@
-number = int(input("enter the number: "))
-for i in range(2, number):
- if (number % i) == 0:
-   print("not prime")
-   break
- else:
-  print("prime")
-  break
- 
+# WAP to get unique vovels from a string
+s = "WAP to get unique vovels from a string aaa A"
+
+for char in s:
+    if char.lower() in 'aeiou':
+            print(char)
 
    

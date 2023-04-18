@@ -5,4 +5,6 @@ for char in s:
     if char.lower() in 'aeiou':
             print(char)
 
+
+
    

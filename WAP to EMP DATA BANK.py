@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 emp_db = {
     '1':{'name: Razi', 'salary: 8500'},
      '2':{'name: Abdul', 'salary: 9500'},
@@ -14,3 +15,11 @@ while True:
     print(number)
   else:  
     break
+=======
+emp_db = {
+    '1':{'name: Razi', 'salary: 8500'},
+     '2':{'name: Abdul', 'salary: 9500'},
+       '3': {'name: Raheman', 'salary: 10500'},
+              } 
+print(emp_db)
+>>>>>>> 6a4140b10f372f7b4b19fbf7330ce3292b2f6acf

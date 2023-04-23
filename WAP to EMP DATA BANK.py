@@ -12,5 +12,5 @@ while True:
   if user==1:
     number = random.randint(1,6)
     print(number)
-  else: 
+  else:  
     break

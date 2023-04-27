@@ -1,5 +1,4 @@
-def myf(a,b):
-    
-    print(f''sum of {a} + {b} is')
+def my_function(fname, lname):
+  print(fname + " " + lname)
 
-     myf(12,14)
+my_function("razi", "ansari")

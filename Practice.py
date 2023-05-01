@@ -1,4 +1,3 @@
-def my_function(fname, lname):
-  print(fname + " " + lname)
+def prime():
+    
 
-my_function("razi ", "ansari")

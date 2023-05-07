@@ -4,5 +4,5 @@ class Test: ##Defining the class
         self.b = b
         print(a + b)     
 t = Test() ##defining the object
-t.m1(253,385) ##method calling
+t.m1(2353,385) ##method calling
 

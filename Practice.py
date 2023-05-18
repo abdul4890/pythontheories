@@ -1,9 +1,9 @@
-class Test: ##Defining the class
-    def m1 (self, a, b): ##defining a method
-        self.a = a
-        self.b = b
-        print(a + b)     
-t = Test() ##defining the object
-t.m1(23533,58550) ##method calling
-
+import pyautogui as pg
+import random
+import time
+while True:
+    x = random.randint(500,600)
+    y = random.randint(600,700)
+    pg.moveTo(x,y,0.5)
+    time.sleep(4)
 

@@ -1,11 +1,8 @@
-number = int(input('enter the number:'))
-if number<2:
-    print("Not prime")
-else:
-        for i in range(2,number):
-            if number%i== 0:
-             print("not prime")
-            break
-        else:
-            print("number is prime")
-
+import random
+print('1: roll the dice', '2: To exit')
+user = int(input('what do you want to do'))
+if user == 1:
+ number= random.randit(1,6)
+ print(number)
+ else:
+    break

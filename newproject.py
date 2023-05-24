@@ -1,6 +1,6 @@
 # WAP to get unique vovels from a string
 s = "WAP to get unique vovels from a string aaa A"
-text = s.split()
+text = s.upper()
 print(text)
 
 

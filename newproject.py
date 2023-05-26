@@ -8,7 +8,7 @@
 
 
 a = []
-for i in range(0,11):
+for i in range(0,1):
     print(a)
 
    

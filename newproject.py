@@ -7,8 +7,12 @@
 #     print(a)
 
 
-a = []
-for i in range(0,18):
-    print(a)
+# a = []
+# for i in range(0,18):
+#     print(a)
 
-   
+a = [1, 2, 3, 4, 5]
+sum = 0 
+for ele in a: 
+  sum += ele 
+print(sum)

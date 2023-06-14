@@ -5,4 +5,5 @@
 # for i in text:
 # #     a = 
 
-print("my name is raziaaa anssasari")
+num = 23
+if 

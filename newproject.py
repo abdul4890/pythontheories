@@ -3,7 +3,7 @@ def palindrom(s):
 
     s = "malayalam"
     ans = palindrom(s)
-
+        
     if ans:
         print("true")
     else:

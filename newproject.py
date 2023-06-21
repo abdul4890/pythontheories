@@ -1,5 +1,7 @@
-s = "heloooo world"
+s = "matter"
 text = s[::-1]
 
-if text == 
-print(text)
+if text == s[::-1]:
+   print("yes")
+else:
+    print("no")

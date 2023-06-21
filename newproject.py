@@ -1,3 +1,5 @@
 s = "heloooo world"
-print(s[::-1])
- 
+text = s[::-1]
+
+if text == 
+print(text)

@@ -1,7 +1,4 @@
-s = "matter"
-text = s[::-1]
+def myfunc():
+  print("hello world")
 
-if text == s[::-1]:
-   print("yes")
-else:
-    print("noo")
+myfunc()

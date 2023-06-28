@@ -1,3 +1,3 @@
-lst = [2,42,5,5,773,5,63,6,5,5,5,5,5,5,5,5,55,555]
-x = 5
-print(lst.count(x))
+str = "any thing cn be done"
+a = len(str)
+print(a)

@@ -1,1 +1,1 @@
-Def if 
+def ispalindrome 

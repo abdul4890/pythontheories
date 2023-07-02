@@ -1,3 +1,6 @@
-string = "malayalam"
+string = "matter"
 temp = string[::-1]
-print(temp)
+if string == temp:
+    print("palindrom")
+else:
+    print("no palindrome")

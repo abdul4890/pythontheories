@@ -1,4 +1,4 @@
-string = "matter"
+string = "madam"
 temp = string[::-1]
 if string == temp:
     print("palindrom")

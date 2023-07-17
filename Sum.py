@@ -1,8 +1,7 @@
-string = input("enter the word")
+string = "clatter"
 text = string[::-1]
 
 if string == text:
-    print("true")
-    
+    print("true")   
 else:
     print("false")

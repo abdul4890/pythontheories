@@ -2,6 +2,6 @@ string = "clatter"
 text = string[::-1]
 
 if string == text:
-    print("truEEe")   
+    print("true")   
 else:
     print("false")

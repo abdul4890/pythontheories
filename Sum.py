@@ -1,4 +1,4 @@
-string = "clatter"
+string = "clssatter"
 text = string[::-1]
 
 if string == text:

@@ -2,6 +2,6 @@ string = "civic"
 text = string[::-1]
 
 if string == text:
-    print("true")   
+    print("terue")   
 else:
     print("false")

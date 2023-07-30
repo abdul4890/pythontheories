@@ -1,4 +1,4 @@
-string = "civic"
+string = "powder"
 text = string[::-1]
 
 if string == text:

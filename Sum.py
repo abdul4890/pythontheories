@@ -1,4 +1,4 @@
-string = "powder"
+string = "overr"
 text = string[::-1]
 
 if string == text:

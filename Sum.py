@@ -1,4 +1,4 @@
-string = "overHr"
+string = "civic"
 text = string[::-1]
 
 if string == text:

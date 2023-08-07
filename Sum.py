@@ -1,4 +1,4 @@
-string = "civic"
+string = "starter"
 text = string[::-1]
 
 if string == text:

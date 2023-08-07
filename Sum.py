@@ -1,7 +1,6 @@
-string = "starter"
-text = string[::-1]
-
-if string == text:
-    print("true")   
-else:
-    print("false")
+num1 = int(input("enter the number: "))
+num2 = int(input("enter the number: "))
+if num1 >= num2:
+    print("first number is greater")
+else: 
+    print("second is greater")

@@ -6,7 +6,7 @@
 # Declaring variables
 
 actual_number = 52
-attempts = :
+attempts = 0
 while True:
     attempts += 1
     guess = int(input("guess the number: \n"))

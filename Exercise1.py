@@ -5,7 +5,7 @@
 
 # Declaring variables
 
-actual_number = 53
+actual_number = 55
 attempts = 0
 while True:
     attempts += 1

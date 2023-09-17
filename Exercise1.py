@@ -8,7 +8,7 @@
 actual_number = 56
 attempts = 0
 while True:
-    attempts += 1
+    attempts += 2
     guess = int(input("guess the number: \n"))
     if guess<actual_number:
      print("your guess was too low")

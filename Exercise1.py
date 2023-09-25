@@ -5,6 +5,3 @@ if a == s:
   print("its is palindrome")
 else:
   print("its not")
-  
-
-    

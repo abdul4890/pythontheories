@@ -20,3 +20,7 @@
 # lang = ("python", "java", "c++")
 # for language in lang:
 #     print(language)
+
+#Creating a new string
+a = "python is the best language"
+print(a)

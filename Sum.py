@@ -11,8 +11,12 @@
 # for capitals in country_couples:
 #     print(capitals)
 
+# #Creating a list
+# lang = ["java", "c++", "python"]
+# for language in lang:
+#     print(lang)
 
-#Creating a list
-lang = ["java", "c++", "python"]
-for language in lang:
-    print(lang)
+#Creating a tupple
+# lang = ("python", "java", "c++")
+# for language in lang:
+#     print(language)

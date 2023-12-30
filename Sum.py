@@ -25,3 +25,9 @@
 # a = "python is the best language"
 # print(a
 
+
+#Programme to reverse a string
+Str = "this needs to be reversed"
+rev = "".join.reversed(Str)
+
+print(rev)

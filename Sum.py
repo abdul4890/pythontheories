@@ -28,6 +28,5 @@
 
 #Programme to reverse a string
 Str = "this needs to be reversed"
-rev = "".join.reversed(Str)
-
+rev = reversed(Str)
 print(rev)

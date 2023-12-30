@@ -23,10 +23,10 @@
 
 # #Creating a new string
 # a = "python is the best language"
-# print(a
+# print(a)
 
 
-#Programme to reverse a string
-Str = "this needs to be reversed"
-rev = reversed(Str)
-print(rev)
+# #Programme to reverse a string
+# Str = "this needs to be reversed"
+# print("".join(reversed(Str)))
+

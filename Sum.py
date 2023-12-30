@@ -30,3 +30,27 @@
 # Str = "this needs to be reversed"
 # print("".join(reversed(Str)))
 
+# #creating a prime number programme
+
+# number = int(input("enter the number:"))
+# if number == 1:
+#     print(num, "is not a prime number")
+# elif number > 1:
+#  for i in range(2, number):
+#     if (number % i) == 0:
+#         print(number, "is not a prime number")
+#         break
+#  else:
+#     print(number, "its a prime number")
+        
+#Python programme to check the largest of 3 numbers
+num1 = int(input("enter number 1:"))
+num2 = int(input("enter number 2:"))
+num3 = int(input("enter number 3:"))
+
+if (num1 >= num2) and (num1 >= num3):
+    print("num 1 is largest")
+elif (num2 >= num1) and (num2 >= num3):
+        print("num 2 is largest")
+else:
+            print("number 3 is largest")

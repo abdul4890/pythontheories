@@ -58,8 +58,10 @@
 #programme to write a palindrome
 a = input("enter the word ")
 
-if a == a[::-1]:
-  print("it is a palindrome")
+while True:
+ if a == a[::-1]:
+   print("it is a palindrome")
+   break
 
 else:
     print("it is not a palindrome")

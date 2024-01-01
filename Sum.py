@@ -54,3 +54,14 @@
 #         print("num 2 is largest")
 # else:
 #             print("number 3 is largest")
+
+#programme to write a palindrome
+a = input("enter the word ")
+
+if a == a[::-1]:
+  print("it is a palindrome")
+
+else:
+    print("it is not a palindrome")
+
+

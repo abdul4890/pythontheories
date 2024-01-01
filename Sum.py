@@ -61,9 +61,8 @@ a = input("enter the word ")
 while True:
  if a == a[::-1]:
    print("it is a palindrome")
-   break
-
 else:
     print("it is not a palindrome")
+break
 
 

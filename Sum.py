@@ -55,14 +55,19 @@
 # else:
 #             print("number 3 is largest")
 
-#programme to write a palindrome
-a = input("enter the word ")
+# #programme to write a palindrome
+# a = input("enter the word ")
 
-while True:
- if a == a[::-1]:
-   print("it is a palindrome")
- else:
-    print("it is not a palindrome")
- break
+# while True:
+#  if a == a[::-1]:
+#    print("it is a palindrome")
+#  else:
+#     print("it is not a palindrome")
+#  break
 
+#Programme to check the number's interval
+# num1 = 10
+# num2 = 20
 
+# for i in range(num1, num2, 2    ):
+#     print(i)

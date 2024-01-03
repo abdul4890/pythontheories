@@ -66,8 +66,14 @@
 #  break
 
 # Programme to check the number's interval
-num1 = 10
-num2 = 20
+# num1 = 10
+# num2 = 20
 
-for i in range(num1, num2 + 1, 2):
-    print(i)
+# for i in range(num1, num2 + 1, 2):
+#     print(i)
+
+#programme to check multiplication of 4
+num1 = int(input("enter the number"))
+for i in range(1,10):
+ print(num1*i)
+

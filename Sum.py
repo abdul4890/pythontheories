@@ -65,9 +65,9 @@
 #     print("it is not a palindrome")
 #  break
 
-#Programme to check the number's interval
-# num1 = 10
-# num2 = 20
+# Programme to check the number's interval
+num1 = 10
+num2 = 20
 
-# for i in range(num1, num2, 2    ):
-#     print(i)
+for i in range(num1, num2 + 1, 2):
+    print(i)

@@ -85,17 +85,31 @@
 # j = "".join(a)
 # print(j)
 
-import random
+# import random
 
-def shuffle(string):
-    tempList = list(string)
-    random.shuffle(tempList)
-    return ''.join(tempList)
+# def shuffle(string):
+#     tempList = list(string)
+#     random.shuffle(tempList)
+#     return ''.join(tempList)
 
-uc=chr(random.randint(65,90))
-lc=chr(random.randint(65,90)).lower()
-dig=str(random.randint(0,10))
+# uc=chr(random.randint(65,90))
+# lc=chr(random.randint(65,90)).lower()
+# dig=str(random.randint(0,10))
 
-password = uc + lc + dig
-a = shuffle(password)
-print(a)
+# password = uc + lc + dig
+# a = shuffle(password)
+# print(a)
+
+# import pywhatkit
+# pywhatkit.sendwhatmsg("+918402835389", 
+#                       "this is an automated msg by razi again", 
+#                       19,12)
+
+#python programme to open a website
+import webbrowser
+
+#take thr url
+url = "https://www.instagram.com/"
+
+#use the opne default methof using the module
+webbrowser.open(url)

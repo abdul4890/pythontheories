@@ -78,9 +78,29 @@
 #  print(num1*i)
 
 #programe to generate random character
+# import random
+# uppercase1=chr(random.randint(66,90))
+# uppercase2=chr(random.randint(66,90))
+# a = [uppercase1,uppercase2]
+# j = "".join(a)
+# print(j)
+
 import random
-uppercase1=chr(random.randint(66,90))
-uppercase2=chr(random.randint(66,90))
-a = [uppercase1,uppercase2]
-j = "".join(a)
-print(j)
+
+#A function do shuffle all the characters of a string
+def shuffle(string):
+  tempList = list(string)
+  return ''.join(tempList)
+
+#Main program starts here
+uppercaseLetter1=chr(random.randint(65,90)) #Generate a random Uppercase letter (based on ASCII code)
+uppercaseLetter2=chr(random.randint(65,90)) #Generate a random Uppercase letter (based on ASCII code)
+#Generate more characters here
+#....
+
+#Generate password using all the characters, in random order
+password = uppercaseLetter1 + uppercaseLetter2 # + ....
+password = shuffle(password)
+
+#Ouput
+print(password)

@@ -97,5 +97,5 @@ lc=chr(random.randint(65,90)).lower()
 dig=str(random.randint(0,10))
 
 password = uc + lc + dig
-password = shuffle(password)
-print(password)
+a = shuffle(password)
+print(a)

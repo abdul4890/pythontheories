@@ -72,8 +72,15 @@
 # for i in range(num1, num2 + 1, 2):
 #     print(i)
 
-#programme to check multiplication of 4
-num1 = int(input("enter the number"))
-for i in range(1,10):
- print(num1*i)
+# #programme to check multiplication of 4
+# num1 = int(input("enter the number"))
+# for i in range(1,10):
+#  print(num1*i)
 
+#programe to generate random character
+import random
+uppercase1=chr(random.randint(66,90))
+uppercase2=chr(random.randint(66,90))
+a = [uppercase1,uppercase2]
+j = "".join(a)
+print(j)

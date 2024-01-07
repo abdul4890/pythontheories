@@ -109,7 +109,7 @@
 import webbrowser
 
 #take thr url
-url = "https://www.instagram.com/"
+url = "https://www.facebook.comW/"
 
 #use the opne default methof using the module
 webbrowser.open(url)

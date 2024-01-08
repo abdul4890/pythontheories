@@ -115,8 +115,6 @@
 # webbrowser.open(url)
 
 #programme using fucntions
-def sum():
-    a = 11
-    b = 12
+def sum(a,b):
     print(a + b)
-sum()
+sum(2,4)

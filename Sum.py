@@ -117,4 +117,4 @@
 #programme using fucntions
 def sum(a,b):
     print(a + b)
-sum(2,4)
+sum(2,44)

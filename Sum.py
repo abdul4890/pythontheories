@@ -106,10 +106,17 @@
 #                       19,12)
 
 #python programme to open a website
-import webbrowser
+# import webbrowser
 
-#take thr url
-url = "https://www.facebook.comW/"
+# #take thr url
+# url = "https://www.facebook.comW/"
 
-#use the opne default methof using the module
-webbrowser.open(url)
+# #use the opne default methof using the module
+# webbrowser.open(url)
+
+#programme using fucntions
+def sum():
+    a = 11
+    b = 12
+    print(a + b)
+sum()

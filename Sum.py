@@ -120,9 +120,18 @@
 # sum(2,44)
 
 #programme to write using function to find square root
-def square_(num):
-    result = num * num
-    return result
+# def square_(num):
+#     result = num * num
+#     return result
 
-square = square_(9)
-print("square is", square)
+# square = square_(9)
+# print("square is", square)
+
+from time import sleep
+from selenium import webdriver
+
+browser = webdriver.Chrome()
+browser.get("https://www.instagram.com/")
+
+sleep(5)
+browser.close()

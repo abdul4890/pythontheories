@@ -1,0 +1,21 @@
+1704837949637	geckodriver	INFO	Listening on 127.0.0.1:50952
+1704837952694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Razi\\AppData\\Local\\Temp\\rust_mozprofileen2Yki"
+1704837953149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Razi\\AppData\\Local\\Temp\\rust_mozprofileen2Yki\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50953/devtools/browser/9d6b5e9e-6889-4b10-a022-9d029e086240
+1704837954715	Marionette	INFO	Listening on port 50980
+Read port: 50980
+1704837954833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yj/l/en_US/qGs60wT1cVm.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1704837993333	Marionette	INFO	Stopped listening on port 50980
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+51029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Razi\\AppData\\Local\\Temp\\rust_mozprofileuC7Qu9"
+1704837966651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Razi\\AppData\\Local\\Temp\\rust_mozprofileuC7Qu9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51029/devtools/browser/6c7414d3-e599-43e6-9cde-e6d5a09a2ee2
+1704837967925	Marionette	INFO	Listening on port 51049
+Read port: 51049
+1704837968011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yj/l/en_US/qGs60wT1cVm.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

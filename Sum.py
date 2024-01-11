@@ -125,13 +125,14 @@
 #     return result
 
 # square = square_(9)
-# print("square is", square)
+# print("squaree is", square)
 
-from time import sleep
-from selenium import webdriver
+# from time import sleep
+# from selenium import webdriver
 
-browser = webdriver.Chrome()
-browser.get("https://www.instagram.com/")
+# browser = webdriver.Chrome()
+# browser.get("https://www.instagram.com/")
 
-sleep(5)
-browser.close()
+# sleep(5)
+# browser.close()
+

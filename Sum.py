@@ -133,6 +133,6 @@
 # browser = webdriver.Chrome()
 # browser.get("https://www.instagram.com/")
 
-# sleep(4)
+# sleep(3)
 # browser.close()
 

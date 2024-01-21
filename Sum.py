@@ -136,3 +136,14 @@
 # sleep(3)
 # browser.close()
 
+def palindrome(s):
+    return s == s[::-1]
+
+s = "mnoo"
+ans = palindrome(s)
+
+if ans:
+    print("yes")
+else:
+    print("no")
+

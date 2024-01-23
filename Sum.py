@@ -134,16 +134,16 @@
 # browser.get("https://www.instagram.com/")
 
 # sleep(3)
-# browser.close()
+# # browser.close()
 
-def palindrome(s):
-    return s == s[::-1]
+# def palindrome(s):
+#     return s == s[::-1]
 
-s = "mnoo"
-ans = palindrome(s)
+# s = "mnoo"
+# ans = palindrome(s)
 
-if ans:
-    print("yes")
-else:
-    print("no")
+# if ans:
+#     print("yes")
+# else:
+#     print("no")
 

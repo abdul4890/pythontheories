@@ -147,3 +147,13 @@
 # else:
 #     print("no")
 
+#Creating a dictionary
+
+
+fullname = {
+    "Razi" : "Ansari",
+    "Israr" : "Ansari",
+    "Adil" : "Ansari"
+    "Rishan" : "Ansari"
+}
+

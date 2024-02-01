@@ -133,7 +133,7 @@
 # browser = webdriver.Chrome()
 # browser.get("https://www.instagram.com/")
 
-# sleep(10)
+# sleep(11)
 # # browser.close()
 
 # def palindrome(s):
@@ -150,10 +150,10 @@
 #Creating a dictionary
 
 
-fullname = {
-    "Razi" : "Ansari",
-    "Israr" : "Ansari",
-    "Adil" : "Ansari",
-    "Rishan" : "Ansari"
-}
-print(fullname)
+# fullname = {
+#     "Razi" : "Ansari",
+#     "Israr" : "Ansari",
+#     "Adil" : "Ansari",
+#     "Rishan" : "Ansari"
+# }
+# print(fullname)

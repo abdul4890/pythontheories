@@ -133,7 +133,7 @@
 # browser = webdriver.Chrome()
 # browser.get("https://www.instagram.com/")
 
-# sleep(11)
+# sleep(12)
 # # browser.close()
 
 # def palindrome(s):

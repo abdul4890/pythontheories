@@ -135,7 +135,7 @@
 
 # sleep(12)
 # # browser.close()
-# def palindrome(s):
+# def palindrome(s):    
 #     return s == s[::-1]
 
 # s = "mnoo"

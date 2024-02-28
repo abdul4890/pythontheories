@@ -156,3 +156,14 @@
 #     "Rishan" : "Ansari"
 # }
 # print(fullname)
+
+def mydic():
+    return dic
+
+dic = {
+    "Aman" : "20000",
+    "Razi" : "30000",
+    "issi" : "40000"
+}
+
+print(mydic)

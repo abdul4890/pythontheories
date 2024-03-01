@@ -161,7 +161,7 @@ def mydic():
     return dic
 
 dic = {
-    "Aman" : "40000",
+    "Aman" : "50000",
     "Razi" : "30000",
     "issi" : "40000"
 }

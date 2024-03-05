@@ -157,13 +157,24 @@
 # }
 # print(fullname)
 
-def mydic():
-    return dic
+# def mydic():
+#     return dic
 
-dic = {
-    "Aman" : "60000",
-    "Razi" : "40000",
-    "issi" : "40000"
-}
+# dic = {
+#     "Aman" : "60000",
+#     "Razi" : "40000",
+#     "issi" : "40000"
+# }
 
-print(mydic)
+# print(mydic)
+
+
+#programme to swap the variables
+a = 3
+b = 5
+
+temp = a
+a = b
+b = temp
+
+print(a,b)

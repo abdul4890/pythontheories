@@ -170,15 +170,17 @@
 
 
 #programme to swap the variables
-# a = 3
-# b = 5
+# # a = 3
+# # b = 5
 
-# temp = a
-# a = b
-# b = temp
+# # temp = a
+# # a = b
+# # b = temp
 
-print(a,b)
+# print(a,b)
 
 #python programme to reverse the string
-a = 1234
-print(str(a)[::-1])
+a = "1234"
+b = a[::-1]
+
+print(b)

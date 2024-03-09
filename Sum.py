@@ -182,5 +182,5 @@
 #python programme to reverse the string
 a = "1234"
 b = a[::-1]
-
+    
 print(b)

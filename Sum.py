@@ -180,7 +180,7 @@
 # print(a,b)
 
 #python programme to reverse the string
-a = "12233"
+a = "1223"
 b = a[::-1]
 
 print(b)

@@ -179,8 +179,9 @@
 
 # print(a,b)
 
-#python programme to reverse the string
-a = "1245ff5"
+python programme to reverse the string
+a = "12f53"
 b = a[::-1]
 
 print(b)
+

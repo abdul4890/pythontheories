@@ -177,11 +177,11 @@
 # # a = b
 # # b = temp
 
-# print(a,b)
+print(a,b)
 
-python programme to reverse the string
-a = "12343"
-b = a[::-1]
+    python programme to reverse the string
+    a = "1233"
+    b = a[::-1]
 
-print(b)
+    print(b)
 

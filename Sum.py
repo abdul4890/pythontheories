@@ -180,7 +180,7 @@
 print(a,b)
 
     python programme to reverse the string
-    a = "12164+"
+    a = "1216er2+"
     b = a[::-1]
 
     print(b)

@@ -1,5 +1,5 @@
 a = input("enter the alphabet")
-s = a[::-1]
+s = a[::-2]
 
 if a == s:
   print("its is palindrome")

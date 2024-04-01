@@ -16,6 +16,7 @@
 # for language in lang:
 #     print(lang)
 
+
 #Creating a tupple
 # lang = ("python", "java", "c++")
 # for language in lang:
@@ -24,7 +25,6 @@
 # #Creating a new string
 # a = "python is the best language"
 # print(a)
-
 
 # #Programme to reverse a string
 # Str = "this needs to be reversed"
@@ -177,11 +177,11 @@
 # # a = b
 # # b = temp
 
-print(a,b)
+# print(a,b)
 
-    python programme to reverse the string
-    a = "1216er2+"
-    b = a[::-1]
+#     python programme to reverse the string
+#     a = "1216+"
+#     b = a[::-1]
 
-    print(b)
+#     print(b)
 

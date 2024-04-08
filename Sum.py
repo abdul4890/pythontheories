@@ -171,7 +171,7 @@
 
 programme to swap the variables
 a = 3
-b = 5
+b = 6
 
 temp = a
 a = b

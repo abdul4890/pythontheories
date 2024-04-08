@@ -169,19 +169,19 @@
 # print(mydic)
 
 
-#programme to swap the variables
-# # a = 3
-# # b = 5
+programme to swap the variables
+a = 3
+b = 5
 
-# # temp = a
-# # a = b
-# # b = temp
+temp = a
+a = b
+b = temp
 
-# print(a,b)
+print(a,c)
 
-#     python programme to reverse the string
-#     a = ""
-#     b = a[::-1]
+    python programme to reverse the string
+    a = ""
+    b = a[::-1]
 
-#     print(b)
+    print(b)
 

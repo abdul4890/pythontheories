@@ -181,7 +181,7 @@ print(a,c)
 
     python programme to reverse the string
     a = ""
-    b = a[::-3]
+    b = a[::-4]
 
     print(b)
 

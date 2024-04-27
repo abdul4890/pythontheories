@@ -180,7 +180,7 @@ b = temp
 print(a,c)
 
     python programme to reverse the string
-    a = ""
+    a = "matlab ki"
     b = a[::-1]
 
     print(b)

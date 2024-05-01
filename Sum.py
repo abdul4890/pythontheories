@@ -180,7 +180,7 @@ b = temp
 print(a,c)
 
     python programme to reverse the string
-    a = "matl"
+    a = "maddl"
     b = a[::-1]
 
     print(b)

@@ -169,18 +169,18 @@
 # print(mydic)
 
 
-programme to swap the variables
-a = 3
-b = 4
+# programme to swap the variables
+# a = 3
+# b = 4
 
-temp = a
-a = b
-b = temp
+# temp = a
+# a = b
+# b = temp
 
-print(a,c)
+# print(a,c)
 
     python programme to reverse the string
-    a = "maddl"
+    a = "reverse karde"
     b = a[::-1]
 
     print(b)

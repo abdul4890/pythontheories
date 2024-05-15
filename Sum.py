@@ -181,7 +181,7 @@
 
     # python programme to reverse the string
     a = "reverse karde"
-    b = a[::6]
+    b = a[::1]
 
     print(b)
 

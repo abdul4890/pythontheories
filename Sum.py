@@ -179,9 +179,15 @@
 
 # print(a,c)
 
-    # python programme to reverse the string
-    a = "reverse karde"
-    b = a[::1]
+#     # python programme to reverse the string
+# a = "reverse karde"
+# b = a[::-1]
 
-    print(b)
+# print(b)
+
+
+def reverse(a):
+  return a[::-1]
+a = "reverse karde"
+print(a)
 

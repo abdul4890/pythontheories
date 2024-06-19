@@ -186,8 +186,5 @@
 # print(b)
 
 
-def reverse(a):
-  return a[::-1]
-a = "reverse karde"
-print(a)
-
+atuple = ("apple","mango","orange")
+print(atuple)
